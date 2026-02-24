@@ -703,7 +703,7 @@ export default function ElleTracker() {
           {/* Header */}
           <div className="header">
             <div className="header-badge">💕 Finance Girlboss Mode 💕</div>
-            <h1 className="header-title">Elle's Money Diary</h1>
+            <h1 className="header-title">Ishara's Money Diary</h1>
             <p className="header-sub">because smart girls know their numbers, darling</p>
             <div className="header-line" />
           </div>
